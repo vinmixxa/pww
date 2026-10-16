@@ -10,3 +10,4 @@ def sum_even_digits(num):
 n = int(input())
 a = sum_even_digits(n)
 print(a)
+
